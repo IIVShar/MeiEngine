@@ -29,7 +29,6 @@ https://text.pollinations.ai/{prompt}?model=searchgpt
 https://text.pollinations.ai/{prompt}?model=evil
 https://text.pollinations.ai/{prompt}?model=unity
 https://r.jina.ai/{target_url}
-https://s.jina.ai/{search_query}
 https://ai-gateway.kilo.ai/api/v1/chat/completions | kilo-auto/free
 https://ai-gateway.kilo.ai/api/v1/chat/completions | nvidia/nemotron-3.5-super-vl:free
 https://ai-gateway.kilo.ai/api/v1/chat/completions | nvidia/nemotron-3-ultra:free
@@ -42,6 +41,11 @@ https://ai-gateway.kilo.ai/api/v1/chat/completions | z-ai/glm-5:free
 https://ai-gateway.kilo.ai/api/v1/chat/completions | community/YoannDev90/vercel-nemotron-3.5-lightning:free
 https://ai-gateway.kilo.ai/api/v1/chat/completions | community/morriszdweck/glm-5.3-flash-free
 https://ai-gateway.kilo.ai/api/v1/chat/completions | community/vendouple/muse-glimmer-30b:free
+https://api.kilo.ai/api/gateway/chat/completions | nvidia/nemotron-3-ultra-550b-a55b:free
+https://api.kilo.ai/api/gateway/chat/completions | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free
+https://api.kilo.ai/api/gateway/chat/completions | nvidia/nemotron-3.5-lightning:free
+https://api.kilo.ai/api/gateway/chat/completions | openrouter/free
+https://api.kilo.ai/api/gateway/chat/completions | stealth/glyph-cluster
 https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | Qwen3.5-397B-A17B
 https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | Qwen3.8-27B
 https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | Qwen3.6-27B
@@ -51,6 +55,7 @@ https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | gpt-oss-120b
 https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | gpt-oss-20b
 https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | Meta-Llama-3_3-70B-Instruct
 https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | Olala-1.0-mini
+https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | Mistral-Small-3.2-24B-Instruct
 https://api.llm7.io/v1/chat/completions | default
 https://api.llm7.io/v1/chat/completions | fast
 https://api.llm7.io/v1/chat/completions | pro
@@ -60,8 +65,16 @@ https://api.llm7.io/v1/chat/completions | deepseek-r1-0528
 https://api.llm7.io/v1/chat/completions | deepseek-v3-0324
 https://api.llm7.io/v1/chat/completions | gpt-5.6-sol
 https://api.llm7.io/v1/chat/completions | gpt-4o-mini-2024-07-18
+https://api.llm7.io/v1/chat/completions | gpt-oss:20b
 https://api.llm7.io/v1/chat/completions | codestral-latest
 https://api.llm7.io/v1/chat/completions | mistral-Nemo-Instruct-2407
 https://api.llm7.io/v1/chat/completions | gemma4:31b
 https://api.llm7.io/v1/chat/completions | gemma-3-27b
 https://api.llm7.io/v1/chat/completions | qwen2.5-coder-32b-instruct
+https://opencode.ai/zen/v1/chat/completions | deepseek-v4-flash-free
+https://opencode.ai/zen/v1/chat/completions | mimo-v2.5-free
+https://opencode.ai/zen/v1/chat/completions | qwen3.6-plus-free
+https://opencode.ai/zen/v1/chat/completions | minimax-m3-free
+https://opencode.ai/zen/v1/chat/completions | nemotron-3-ultra-free
+https://opencode.ai/zen/v1/chat/completions | north-mini-code-free
+https://opencode.ai/zen/v1/chat/completions | big-pickle
