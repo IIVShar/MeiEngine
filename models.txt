@@ -42,3 +42,12 @@ https://ai-gateway.kilo.ai/api/v1/chat/completions | z-ai/glm-5:free
 https://ai-gateway.kilo.ai/api/v1/chat/completions | community/YoannDev90/vercel-nemotron-3.5-lightning:free
 https://ai-gateway.kilo.ai/api/v1/chat/completions | community/morriszdweck/glm-5.3-flash-free
 https://ai-gateway.kilo.ai/api/v1/chat/completions | community/vendouple/muse-glimmer-30b:free
+https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | Qwen3.5-397B-A17B
+https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | Qwen3.8-27B
+https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | Qwen3.6-27B
+https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | Qwen3.5-9B
+https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | Qwen2.5-VL-72B-Instruct
+https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | gpt-oss-120b
+https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | gpt-oss-20b
+https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | Meta-Llama-3_3-70B-Instruct
+https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions | Olala-1.0-mini
